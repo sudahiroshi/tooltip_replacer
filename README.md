@@ -26,7 +26,9 @@ okikaeクラスを持つ要素は，pでもspanでもdivでも大丈夫（なは
 
 ### デモページ
 
-このページを書いている時点では，まだ設定が反映されていないのか，ページが見られません．
-暫く経つと見られるようになると思います．
-
 [https://sudahiroshi.github.io/tooltip_replacer/](https://sudahiroshi.github.io/tooltip_replacer/)
+
+### 参考
+
+Tooltipの表示には，下記サイトのソースコードを利用しました．
+[【CSS】ツールチップをHTMLとCSSだけで簡単に作る](https://www.jungleocean.com/programming/190308tooltip-css)
